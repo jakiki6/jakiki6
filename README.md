@@ -2,6 +2,7 @@
 - here is some little stats : 
 
 ![jakiki6Github_stat](https://github-readme-stats.vercel.app/api?username=jakiki6&hide=issues&show_icons=true)
+![](https://komarev.com/ghpvc/?username=jakiki6)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakiki6)](https://github.com/anuraghazra/github-readme-stats)
