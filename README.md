@@ -7,10 +7,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakiki6)](https://github.com/anuraghazra/github-readme-stats)
 
-
-- 🔭 I’m currently working on an own ML framework and a DNA assembler
 - 📫 How to reach me: Jakiki6#0498 on Discord
-- ⚡ Fun fact: I use more python than assembler
+- ⚡ Fun fact: I use more python than assembly
 - ⚡ Fun fact: I'm 15 years old
 
 <!--
