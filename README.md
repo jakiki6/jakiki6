@@ -8,8 +8,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakiki6)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me: Jakiki6#0498 on Discord
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I use more python than assembly
-- ⚡ Fun fact: I'm 15 years old
+- ⚡ Fun fact: I'm 16 years old
 
 <!--
 **jakiki6/jakiki6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
